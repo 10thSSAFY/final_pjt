@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'NPSfontRegular';
+    src: url("./NPSfont_regular.ttf");
+  }
+  *{
+    font-family: 'NPSfontRegular'
+  }

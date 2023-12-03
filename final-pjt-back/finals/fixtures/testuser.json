@@ -1,0 +1,48 @@
+[
+{
+    "model": "accounts.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$600000$AifsLI78uSKJZt6ninlLkU$LUUaSSO8aVxdx18SjyRf8XH/8rKHHX2ZY0OJeyirVVQ=",
+        "last_login": "2023-11-20T00:46:18.202Z",
+        "first_name": "",
+        "last_name": "",
+        "date_joined": "2023-11-20T00:45:42.927Z",
+        "username": "test01",
+        "nickname": null,
+        "email": "test01@naver.com",
+        "age": null,
+        "maninbank": null,
+        "savestyle": null,
+        "financial_products": null,
+        "is_active": true,
+        "is_staff": false,
+        "is_superuser": false,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$600000$achOhFwGijcMQps3VmiCAg$VW1EqOqmYxouNETsBA6pb8+VUw/LYI6ajbJXHsYciMA=",
+        "last_login": "2023-11-20T00:48:02.983Z",
+        "first_name": "",
+        "last_name": "",
+        "date_joined": "2023-11-20T00:47:48.198Z",
+        "username": "test02",
+        "nickname": null,
+        "email": "test02@gmail.com",
+        "age": null,
+        "maninbank": null,
+        "savestyle": null,
+        "financial_products": null,
+        "is_active": true,
+        "is_staff": false,
+        "is_superuser": false,
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]
